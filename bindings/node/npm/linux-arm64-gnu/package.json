@@ -8,7 +8,7 @@
   "files": [
     "ailoy.linux-arm64-gnu.node"
   ],
-  "description": "Open-source agent SDK built for sandboxes: every agent gets a Linux VM of its own to run code in, driven by the language model you name.",
+  "description": "Agents that drive a language model through tool-augmented turns, in a virtx console.",
   "homepage": "https://github.com/brekkylab/ailoy#readme",
   "license": "Apache-2.0",
   "engines": {
