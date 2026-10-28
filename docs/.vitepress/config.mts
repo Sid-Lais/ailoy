@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Ailoy',
-  description: 'Give your agent a computer of its own.',
+  description: 'The open-source agent SDK built for sandboxes. Every agent gets a Linux VM of its own.',
   // Served from https://brekkylab.github.io/ailoy/.
   base: '/ailoy/',
   cleanUrls: true,
@@ -34,7 +34,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/brekkylab/ailoy' },
       { icon: 'discord', link: 'https://discord.gg/27rx3EJy3P' },
-      { icon: 'x', link: 'https://x.com/ailoy_co' },
+      { icon: 'x', link: 'https://x.com/brekkylab' },
     ],
 
     editLink: {

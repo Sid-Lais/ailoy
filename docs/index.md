@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Ailoy
   text: 
-  tagline: AI agent builder with a VM at its heart.
+  tagline: The open-source agent SDK built for sandboxes.
   actions:
     - theme: brand
       text: Guide
